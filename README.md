@@ -11,8 +11,8 @@ I’m a QA Automation Engineer passionate about ensuring high-quality software u
 - Security Testing using OWASP ZAP and Burp Suite
 
 ### My Best Projects
-- **[Project Name]([link-to-repo](https://github.com/Pedrofilip13/website-with-cv-download))**: Description of what you did and the technologies used.
-- **[Project Name]([link-to-repo](https://github.com/Pedrofilip13/mockup-to-webpage))**: Description of what you did and the technologies used.
+- **[website-with-cv-download]((https://github.com/Pedrofilip13/website-with-cv-download))**: Description of what you did and the technologies used.
+- **[mockup-to-webpage]((https://github.com/Pedrofilip13/mockup-to-webpage))**: Description of what you did and the technologies used.
 
 ### Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/pedrofilip13)
