@@ -12,7 +12,7 @@ I’m a QA Automation Engineer passionate about ensuring high-quality software u
 
 ### My Best Projects
 - **[website-with-cv-download]((https://github.com/Pedrofilip13/website-with-cv-download))**: :P.
-- **[mockup-to-webpage]((https://github.com/Pedrofilip13/mockup-to-webpage))**: :).
+- **[mockup-to-webpage](https://github.com/Pedrofilip13/mockup-to-webpage)**: :).
 
 ### Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/pedrofilip13)
