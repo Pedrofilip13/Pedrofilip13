@@ -11,8 +11,7 @@ I’m a QA Automation Engineer passionate about ensuring high-quality software u
 - Security Testing using OWASP ZAP and Burp Suite
 
 ### My Best Projects
-- **[website-with-cv-download]((https://github.com/Pedrofilip13/website-with-cv-download))**: :P.
-- **[mockup-to-webpage](https://github.com/Pedrofilip13/mockup-to-webpage)**: :).
+- **[ngx-cypress-test](https://github.com/Pedrofilip13/ngx-cypress-test)**: Cypress Front and API automation.
 
 ### Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/pedrofilip13)
